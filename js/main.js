@@ -63,11 +63,8 @@ function mostrarResumenInscripcion() {
   }
 }
 
-// Programa principal
-
 alert("Bienvenido al simulador de inscripción a materias");
 
-// Mostrar materias disponibles antes del menú
 mostrarMateriasDisponibles();
 
 let opcion;
